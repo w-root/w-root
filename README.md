@@ -20,30 +20,12 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
+- 📫 How to reach me: emreseyhaan05@gmail.com;
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
 ## ⏲ What we are doing now:
-I'm developing a project for Teknofest 🚀, I am writing on 2 sites 📃.
-I'm a Programming Teacher 💻. I'm developing an app with my team 👨🏼‍🤝‍👨🏻, 
-I also work as a FreeLancer 🆓.
+I'm a university student 🚀, I am writing on 2 sites 📃.I also work as a FreeLancer 🆓.
 
 <br />
 
@@ -102,4 +84,10 @@ I also work as a FreeLancer 🆓.
 [ios]: https://www.apple.com/ios/ios-14/
 [xd]: https://www.adobe.com/products/xd.html
 
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
